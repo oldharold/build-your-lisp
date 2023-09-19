@@ -1,4 +1,5 @@
-//实现一个简单Lispy终端
+// 实现一个简单Lispy终端
+// cc -std=c99 -Wall prompt.c -ledit -o prompt
 
 #include <stdio.h>
 #include <stdlib.h>
